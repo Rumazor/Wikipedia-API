@@ -227,12 +227,12 @@ Wikipedia
 }
 
 .submit-btn {
-  border: 1px solid var(--primary-500);
+  border: 1px solid var(--primary-300);
   border-left: transparent;
   border-top-right-radius: var(--borderRadius);
   border-bottom-right-radius: var(--borderRadius);
   text-transform: capitalize;
-  background: var(--primary-500);
+  background: var(--primary-300);
   color: var(--white);
   transition: var(--transition);
   cursor: pointer;
