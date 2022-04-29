@@ -30,7 +30,7 @@ const fetchPages = async(searchValue) =>{
         return;
         }
 
-    renderResults(results)
+    renderResults(result)
     } catch (error) {
         results.innerHTML = '<div class="error">Sorry there was a error</div>'
     }
